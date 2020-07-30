@@ -1,5 +1,5 @@
 # pywebscraper
-A little web-scraper written in python I am building for my other projects
+A little web-scraper written in python
 
 feel free to use it as a template or improve it if you want
 
